@@ -2,15 +2,14 @@
 
 .my-class {
     color: darkslategray;
-    border: dotted darkslategray;
+	border: dotted darkslategray;
     border-top-right-radius: 5px;
     border-spacing: 5px 550px;
 	position: center;
 }
 
-
 h3 {
-	font-size: 15px;
+	font-size: 13px;
 }
 
 body {
@@ -18,7 +17,7 @@ body {
     background-size: cover;
 }
 
-.lorem-ipsum {
+.my-container {
     text-align: justify;
     border: thin solid #C8C4FF;
     border-radius: 5px;
@@ -27,4 +26,6 @@ body {
 	position: center;
   	top: 20px;
   	left: 50px;
+}
+.my-container {
 }
