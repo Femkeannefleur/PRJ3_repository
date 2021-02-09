@@ -6,3 +6,16 @@ body {
     background-size: cover;
 }
 
+.lorem-ipsum {
+    text-align: justify;
+    border: thin solid #C8C4FF;
+    border-radius: 5px;
+    border-spacing: 25px 25px;
+    background-color: #C8C4FF;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
