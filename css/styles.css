@@ -5,7 +5,9 @@
     border: dotted darkslategray;
     border-top-right-radius: 5px;
     border-spacing: 5px 550px;
+	position: center;
 }
+
 
 h3 {
 	font-size: 10px;
