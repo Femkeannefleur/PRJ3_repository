@@ -1,0 +1,8 @@
+@charset "utf-8";
+.my-class { color: darkslategray; border: dotted darkslategray 
+}
+body {
+    background-image: url(../../../../../../../../../OneDrive/Documenten/GitHub/AmberMeeusen/seafoam.jpg);
+    background-size: cover;
+}
+
