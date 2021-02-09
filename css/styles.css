@@ -8,11 +8,21 @@
 	position: center;
 }
 
-body{ 
-	font-family: 'Oswald', sans-serif; 
-	color: darkslategray;	
-	background-image: url(../../../../../../../../../OneDrive/Documenten/GitHub/AmberMeeusen/seafoam.jpg);
+.page-wrapper {
+    width: 99%;
+    background-repeat: repeat-y;
+    background-position: top left, repeat-y right 100px;
+    background-image: url(../../../../../../../../../OneDrive/Documenten/GitHub/AmberMeeusen/img-lg-vert-border.png);
+    background-size: 0.75em;
+    margin: 0.5em auto;
+    padding: 0 2px;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    color: darkslategray;
     background-size: cover;
+    background-image: url(file:///C|/Users/femke/Documents/buas/year%202/semester%204/PRJ4/production/GitHub/PRJ3_repository/images/seafoam.jpg);
 }
 
 h3 {
@@ -29,5 +39,4 @@ h3 {
   	top: 20px;
   	left: 50px;
 }
-.my-container {
-}
+
