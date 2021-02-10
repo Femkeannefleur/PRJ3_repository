@@ -1,17 +1,19 @@
 @charset "utf-8";
 
+
 body{
     font-family: 'Oswald', sans-serif;
     color: darkslategray;
-    background-image: url(../images/seafoam.jpg); 
+    background-image: url(../images/seafoam.jpg);
 	background-size: cover;
-	margin: 100px;
-	
+	margin: 100px;	
 }
+
 
 h3 {
 	font-size: 13px;
 }
+
 
 .page-wrapper{
     background-repeat: repeat-y;
@@ -21,7 +23,8 @@ h3 {
     height: 1000px;
 }
 
-.my-class {
+
+#my-class {
     border: dotted darkslategray;
     border-top-right-radius: 5px;
 	text-align: center;
@@ -36,14 +39,17 @@ h3 {
 	padding-right: 10px;
 }
 
+
 .photo {
     float: left;
     padding-right: 10px;
 }
 
+
 section { 
 	clear: right; 
 }
+
 
 footer {
 	text-align: center;
