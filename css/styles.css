@@ -5,6 +5,13 @@ body{
     color: darkslategray;
 }
 
+.my-class {
+    border: dotted darkslategray;
+	border-top-right-radius: 5px; 
+	position: center;
+	text-align: center
+}
+
 h3 {
 	font-size: 13px;
 }
