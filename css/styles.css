@@ -41,6 +41,10 @@ h3 {
     padding-right: 10px;
 }
 
+section { 
+	clear: right; 
+}
+
 footer {
 	text-align: center;
 }
