@@ -3,7 +3,8 @@
 body{
     font-family: 'Oswald', sans-serif;
     color: darkslategray;
-    background-image: url(../images/seafoam.jpg);       	
+    background-image: url(../images/seafoam.jpg); 
+	background-size: cover;
 }
 
 .my-class {
@@ -21,4 +22,7 @@ h3 {
     border: thin solid #ACA6FF;
     border-radius: 5px;
     background-color: #C8C4FF;
+}
+.photo {
+   
 }
