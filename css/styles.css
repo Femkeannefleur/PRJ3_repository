@@ -5,8 +5,20 @@ body{
     color: darkslategray;
     background-image: url(../images/seafoam.jpg); 
 	background-size: cover;
-	margin: 50px;
+	margin: 100px;
 	
+}
+
+h3 {
+	font-size: 13px;
+}
+
+.page-wrapper{
+    background-repeat: repeat-y;
+    background-image: url(../images/border.png);
+    background-size: 0.75em;
+    padding: 0 20px;
+    height: 1000px;
 }
 
 .my-class {
@@ -15,9 +27,7 @@ body{
 	text-align: center;
 }
 
-h3 {
-	font-size: 13px;
-}
+
 
 .my-container {
     text-align: justify;
