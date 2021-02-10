@@ -3,13 +3,13 @@
 body{
     font-family: 'Oswald', sans-serif;
     color: darkslategray;
-	background-size: cover;
-    background-image: url(file:///C|/Users/femke/Documents/buas/year%202/semester%204/PRJ4/production/GitHub/PRJ3_repository/images/seafoam.jpg)
+    background-image: url(../images/seafoam.jpg);       	
 }
 
 .my-class {
     border: dotted darkslategray;
     border-top-right-radius: 5px;
+	text-align: center;
 }
 
 h3 {
