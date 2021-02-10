@@ -8,7 +8,6 @@ body{
 .my-class {
     border: dotted darkslategray;
 	border-top-right-radius: 5px; 
-	position: center;
 	text-align: center
 }
 
