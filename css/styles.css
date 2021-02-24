@@ -39,6 +39,9 @@ h3 {
 .photo {
     float: right;
     padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -49,6 +52,12 @@ h3 {
     background-color: #C8C4FF;
 	padding-right: 30px;
 	padding-left: 30px;
+}
+
+h2{
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
 }
 
 
