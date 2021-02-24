@@ -28,6 +28,7 @@ h3 {
     border: dotted darkslategray;
     border-top-right-radius: 5px;
 	text-align: center;
+	background-color: #FFFFFF;
 }
 
 
@@ -52,7 +53,7 @@ article {
 }
 
 ol { 
-align-content: center}
+}
 
 
 footer {
